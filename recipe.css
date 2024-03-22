@@ -1,0 +1,38 @@
+#mainHeading {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22pt;
+    font-style: bold;
+}
+
+#Headings {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-style: bold;
+}
+
+#bodyStyle {
+    color: #404040;
+    background-color: white;
+    font-size: 11pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#linksStyle {
+    color: #A4A400;
+}
+
+#quotesStyle {
+    background-color: #FFFFC8;
+}
+
+#copyrightStyle {
+    float: inline-start;
+    text-align: right;
+}
